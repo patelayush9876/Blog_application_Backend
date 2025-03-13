@@ -20,18 +20,11 @@ This project is a **backend service** built using **Java Spring Boot** that allo
 - Implements an API endpoint for **generating blog summaries**.
 - Uses **OpenAI API** or an **NLP library like spaCy** (via a Python REST service).
 
-### **3. AWS Integration**
-- **Dockerized** for easy deployment.
-- Deployable on **AWS EC2 or AWS Lambda with API Gateway**.
-- Uses **AWS S3** for storing blog images (optional).
-
 ---
 
-## 🔥 Bonus Features (Optional, but Appreciated)
+## 🔥 Bonus Features 
 - **JWT-based authentication** for secure access.
-- **Redis caching** for frequently accessed blogs.
-- Deployment using **AWS Elastic Beanstalk** or **Kubernetes**.
-
+- 
 ---
 
 ## 🛠️ Tech Stack
